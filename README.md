@@ -10,6 +10,14 @@ Make sure you check out the *requirements.txt* file, it lists all the packages u
 Streamlit allows you to host 3 apps for free so sign up and host your own ML apps!
 
 
+
+
+https://user-images.githubusercontent.com/54693803/137015406-7728fc3a-767a-41ff-9e90-f0e8a2738871.mov
+
+
+
+
+
 #### References:
 1. How to Build an AutoML App in Python-Chanin Nantasenamat; https://towardsdatascience.com/how-to-build-an-automl-app-in-python-e216763d10cd
 2. Machine Learning Web App with Streamlit-Utku Arık; https://medium.com/analytics-vidhya/machine-learning-web-app-with-streamlit-7864e04c1fbf
